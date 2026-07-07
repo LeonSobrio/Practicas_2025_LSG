@@ -101,4 +101,4 @@ For each (subject, task) pair, the script produces:
 
 If you use this script, please cite:
 
-L. Sobrio García and G. Niso Galán, "Cognitive Control and Habits: An EEG Approach," Undergraduate thesis, Universidad Carlos III de Madrid / Instituto Cajal (CSIC), Madrid, Spain, 2026.
+L. Sobrio García and G. Niso Galán, "Cognitive Control and Habitual Inhibition: Development of an Automated, Open-Source Pipeline For Task-Based EEG Analysis" Undergraduate thesis, Universidad Carlos III de Madrid / Instituto Cajal (CSIC), Madrid, Spain, 2026.
